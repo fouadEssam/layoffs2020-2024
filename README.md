@@ -64,6 +64,9 @@ Based on these steps, we perform our project:
 
 # 📊 Dashboard
 7.	Present Findings: Finally, we communicate the results of our analysis through reports, dashboards, or presentations. This step is crucial for making data-driven decisions.<br>
-![image](https://github.com/user-attachments/assets/2ee0c3be-d0d6-435c-93f0-8ebb431259a8)
+![image](https://github.com/user-attachments/assets/53dae9c1-950a-44f1-81c4-2b796a9287ee)<br>
+![image](https://github.com/user-attachments/assets/cade3070-5a96-4a75-9e31-1758afc376a0)
+
+
 
 
