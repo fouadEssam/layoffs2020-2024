@@ -1,7 +1,7 @@
 # 📄 A brief introduction to the data
 
 Title: "Layoff Analysis Project<br>
-Description: The layoffs.xlsx file in the data directory contains the dataset used in this project.<br>
+Description: The layoffs_rawdata.csv file in the data directory contains the dataset used in this project.<br>
 Columns:<br>
 - Company: Name of the company experiencing layoffs.<br>
 -	Location: Company location.<br>
