@@ -62,7 +62,7 @@ Based on these steps, we perform our project:
 ![image](https://github.com/user-attachments/assets/23d551dc-94ba-4a73-b3d8-b75a40c9eb9f)<br>
 ![image](https://github.com/user-attachments/assets/dbd96f20-bb46-4c98-8d5b-90caf969e3b1)<br>
 
-# 📊 Dashboard
+# 📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U3YjI4NDQtZTc4Yy00MmE1LWI0OTItY2NiMTFkY2U1ZDUzIiwidCI6IjhmY2Y0Y2Q5LTJmZTQtNDU3MS04NDMxLWIxN2MzZjI5ZWZiMyJ9)
 7.	Present Findings: Finally, we communicate the results of our analysis through reports, dashboards, or presentations. This step is crucial for making data-driven decisions.<br>
 ![image](https://github.com/user-attachments/assets/53dae9c1-950a-44f1-81c4-2b796a9287ee)<br>
 ![image](https://github.com/user-attachments/assets/cade3070-5a96-4a75-9e31-1758afc376a0)
